@@ -1,99 +1,94 @@
-# Reactflix
-
-![Project Logo](images/logo.png)
+![Project Logo](public/images/REACTFLIX-LOGO.png)
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Project Blueprint](#project-blueprint)
+2. [Project Overview](#project-overview)
    - [Wireframes](#wireframes)
    - [User Stories](#user-stories)
 3. [Features](#features)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Credits](#credits)
 
 ## Introduction
 
-[Provide a brief introduction to your project, its purpose, and any relevant background information.]
+**Problem Statement:** Reactflix - The better Netflix. In a world overwhelmed by too many shows and recommendations, Reactflix offers a truly personalized experience with no ads and a straightforward approach. Users can search for new shows, add them to their list, or view what's trending. (Note: Actual streaming is not currently available.)
 
-## Project Blueprint
+**Goal of this project:** The aim is to emulate the design structure of Netflix using the TV Maze API. When users visit the homepage, they are presented with the site's current top 5 trending shows. Directly below, any shows the user has favorited will be displayed. 
+
+In the navigation menu at the top right, users can search for shows or click "Random" to be taken to any show listed on the site. Clicking on any show's banner will lead to a details page, providing basic information about the show. This page also includes functionality for favoriting the show and rating it from 1 to 5 stars.
+
+## Project Overview
 
 ### Wireframes
 
 Here are the wireframes for our project, illustrating the main layouts and user flows:
 
+WILL INPUT IMAGES ONCE WE HAPPY WITH THE LAYOUT
+
 - **Home Page**
-  ![Home Page Wireframe](wireframes/home-page.png)
+  ![Home Page](wireframes/home-page.png)
 
 - **Favorites Page**
-  ![Favorites Page Wireframe](wireframes/favorites-page.png)
+  ![Favorites Page](wireframes/favorites-page.png)
 
 - **Details Page**
-  ![Details Page Wireframe](wireframes/details-page.png)
+  ![Details Page](wireframes/details-page.png)
 
 - **Search Page**
-  ![Search Page Wireframe](wireframes/search-page.png)
+  ![Search Page ](wireframes/search-page.png)
 
-[Add more wireframes as necessary, replacing the image paths with your own.]
 
 ### User Stories
 
-We've identified the following user stories to guide our development:
+We've came up with the following user stories to guide our development:
 
-1. **As a user, I want to see trending shows on the home page so that I can discover new content.**
+1. **As a user, I want to see the top 5 trending shows.**
    - Acceptance Criteria:
-     - Display a list of trending shows.
-     - Include show name, image, and a brief description.
+     - Words words words.
 
 2. **As a user, I want to view detailed information about a specific show so that I can learn more about it.**
    - Acceptance Criteria:
-     - Navigate to a details page from the home or search page.
-     - Show comprehensive information about the selected show.
+     - Words words words.
 
-3. **As a user, I want to save my favorite shows so that I can easily access them later.**
+3. **As a user, I want to be able to rate a show (5-stars) I want to watch/have watched.**
    - Acceptance Criteria:
-     - Add a "favorite" button on show cards.
-     - View all favorited shows on a separate "Favorites" page.
+     - Words words words.
 
-4. **As a user, I want to search for shows by name so that I can find specific content.**
+4. **As a user, I will want to search by id.**
    - Acceptance Criteria:
-     - Implement a search bar on the navigation or search page.
-     - Display search results matching the query.
+     - Words words words.
 
-5. **As a user, I want a random show suggestion so that I can discover new content easily.**
+5. **As a user, I want to see a show’s title and poster**
    - Acceptance Criteria:
-     - Add a "Random" button in the navigation.
-     - Navigate to a random show's details page when clicked.
-
-[Add more user stories as needed.]
+     - Words words words.
+    
+6. **As a user, I would like to make a favorites list**
+   - Acceptance Criteria:
+     - Words words words.
 
 ## Features
-
-### MVP Features
 
 The following features have been identified as essential for our Minimum Viable Product (MVP):
 
 1. **Home Page with Trending Shows**
-   - Reasoning: This is a core feature that allows users to discover new content upon visiting the site.
+   - Reasoning: Words words words.
 
 2. **Show Details Page**
-   - Reasoning: Essential for providing comprehensive information about selected shows.
+   - Reasoning: 
 
 3. **Favorites Functionality**
-   - Reasoning: A key feature for user engagement and retention, allowing users to keep track of their preferred shows.
+   - Reasoning: 
 
 4. **Search Functionality**
-   - Reasoning: A fundamental feature for users to find specific content.
+   - Reasoning: 
 
 5. **Random Show Suggestion**
-   - Reasoning: Adds a fun element and encourages users to explore content they might not have discovered otherwise.
+   - Reasoning: 
 
 ## Installation
 
-[Provide instructions for setting up the project locally. Include any necessary dependencies, database setup, etc.]
+- Words words words.
 
-```bash
-# Example installation command
-npm install
+## Credits
+- Created by: Ashley Reynolds, Robert Prickett, Jesse Baze, Kiersten Morrow
