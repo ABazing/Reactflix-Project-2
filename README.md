@@ -1,4 +1,4 @@
-# [Reactflix]
+# Reactflix
 
 ![Project Logo](images/logo.png)
 
@@ -9,8 +9,6 @@
    - [Wireframes](#wireframes)
    - [User Stories](#user-stories)
 3. [Features](#features)
-   - [MVP Features](#mvp-features)
-   - [Future Enhancements](#future-enhancements)
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
@@ -91,19 +89,6 @@ The following features have been identified as essential for our Minimum Viable 
 
 5. **Random Show Suggestion**
    - Reasoning: Adds a fun element and encourages users to explore content they might not have discovered otherwise.
-
-### Future Enhancements
-
-The following features are planned for future iterations:
-
-1. **User Accounts and Authentication**
-   - Reasoning: While not essential for the MVP, this would allow for personalized experiences and data persistence.
-
-2. **Watchlist Feature**
-   - Reasoning: An extension of the favorites feature, allowing users to track shows they plan to watch.
-
-3. **Show Recommendations based on User Preferences**
-   - Reasoning: This feature would enhance user engagement by providing tailored content suggestions.
 
 ## Installation
 
