@@ -1,4 +1,4 @@
-# [Project Name]
+# [Reactflix]
 
 ![Project Logo](images/logo.png)
 
